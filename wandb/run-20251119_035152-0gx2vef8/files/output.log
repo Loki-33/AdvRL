@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 234, in <module>
+    train(episodes=1000)
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 104, in train
+    next_state, reward, done, truncated, _ = env.step(action.item())
+                                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 98, in step
+    obs = self.get_observation()
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 137, in get_observation
+    self.draw_scene()
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 109, in draw_scene
+    pygame.draw.line(self.screen, (200, 200, 200), (x, 0), (x, self.height))
+KeyboardInterrupt

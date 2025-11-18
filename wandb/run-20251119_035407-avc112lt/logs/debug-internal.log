@@ -1,0 +1,11 @@
+{"time":"2025-11-19T03:54:08.191563867+05:30","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-19T03:54:09.750063058+05:30","level":"INFO","msg":"stream: created new stream","id":"avc112lt"}
+{"time":"2025-11-19T03:54:09.75014135+05:30","level":"INFO","msg":"handler: started","stream_id":"avc112lt"}
+{"time":"2025-11-19T03:54:09.750231933+05:30","level":"INFO","msg":"stream: started","id":"avc112lt"}
+{"time":"2025-11-19T03:54:09.750265317+05:30","level":"INFO","msg":"sender: started","stream_id":"avc112lt"}
+{"time":"2025-11-19T03:54:09.750269578+05:30","level":"INFO","msg":"writer: started","stream_id":"avc112lt"}
+{"time":"2025-11-19T03:59:11.113731093+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":5475}
+{"time":"2025-11-19T03:59:11.140498856+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":3}
+{"time":"2025-11-19T04:00:41.255607526+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":1}
+{"time":"2025-11-19T04:00:41.250933916+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":7205}
+{"time":"2025-11-19T04:04:46.164869017+05:30","level":"INFO","msg":"stream: closing","id":"avc112lt"}

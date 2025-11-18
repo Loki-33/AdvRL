@@ -1,0 +1,180 @@
+EPISODE COMPLETE! Reward: 4.400000000000002, Total episodes: 1
+EPISODE COMPLETE! Reward: 2.9999999999999996, Total episodes: 2
+EPISODE COMPLETE! Reward: 3.299999999999999, Total episodes: 3
+EPISODE COMPLETE! Reward: 8.800000000000004, Total episodes: 4
+EPISODE COMPLETE! Reward: 6.2, Total episodes: 5
+EPISODE COMPLETE! Reward: 6.400000000000004, Total episodes: 6
+EPISODE COMPLETE! Reward: 4.300000000000002, Total episodes: 7
+EPISODE COMPLETE! Reward: 5.699999999999999, Total episodes: 8
+EPISODE COMPLETE! Reward: 7.300000000000002, Total episodes: 9
+EPISODE COMPLETE! Reward: 10.700000000000005, Total episodes: 10
+Steps: 2048/2048000 | Episodes: 10 | Avg Reward (100ep): 6.01 | Loss: -0.1540
+EPISODE COMPLETE! Reward: 13.200000000000005, Total episodes: 11
+EPISODE COMPLETE! Reward: 12.300000000000006, Total episodes: 12
+EPISODE COMPLETE! Reward: 4.199999999999999, Total episodes: 13
+EPISODE COMPLETE! Reward: 6.3000000000000025, Total episodes: 14
+EPISODE COMPLETE! Reward: 8.500000000000004, Total episodes: 15
+EPISODE COMPLETE! Reward: 9.100000000000005, Total episodes: 16
+EPISODE COMPLETE! Reward: 2.9, Total episodes: 17
+EPISODE COMPLETE! Reward: 11.700000000000006, Total episodes: 18
+EPISODE COMPLETE! Reward: 11.400000000000007, Total episodes: 19
+EPISODE COMPLETE! Reward: 8.600000000000003, Total episodes: 20
+Steps: 4096/2048000 | Episodes: 20 | Avg Reward (100ep): 7.42 | Loss: 0.0132
+EPISODE COMPLETE! Reward: 15.800000000000004, Total episodes: 21
+EPISODE COMPLETE! Reward: 13.300000000000004, Total episodes: 22
+EPISODE COMPLETE! Reward: 13.300000000000004, Total episodes: 23
+EPISODE COMPLETE! Reward: 13.200000000000005, Total episodes: 24
+EPISODE COMPLETE! Reward: 9.600000000000003, Total episodes: 25
+EPISODE COMPLETE! Reward: 9.900000000000002, Total episodes: 26
+EPISODE COMPLETE! Reward: 10.000000000000005, Total episodes: 27
+EPISODE COMPLETE! Reward: 12.600000000000003, Total episodes: 28
+EPISODE COMPLETE! Reward: 15.600000000000007, Total episodes: 29
+EPISODE COMPLETE! Reward: 12.100000000000009, Total episodes: 30
+Steps: 6144/2048000 | Episodes: 30 | Avg Reward (100ep): 9.12 | Loss: 0.2267
+EPISODE COMPLETE! Reward: 17.5, Total episodes: 31
+EPISODE COMPLETE! Reward: 13.400000000000006, Total episodes: 32
+EPISODE COMPLETE! Reward: 11.700000000000008, Total episodes: 33
+EPISODE COMPLETE! Reward: 12.100000000000005, Total episodes: 34
+EPISODE COMPLETE! Reward: 11.700000000000008, Total episodes: 35
+EPISODE COMPLETE! Reward: 15.000000000000009, Total episodes: 36
+EPISODE COMPLETE! Reward: 17.199999999999996, Total episodes: 37
+EPISODE COMPLETE! Reward: 14.600000000000007, Total episodes: 38
+EPISODE COMPLETE! Reward: 16.900000000000006, Total episodes: 39
+EPISODE COMPLETE! Reward: 14.400000000000004, Total episodes: 40
+Steps: 8192/2048000 | Episodes: 40 | Avg Reward (100ep): 10.46 | Loss: 0.2050
+EPISODE COMPLETE! Reward: 13.600000000000009, Total episodes: 41
+EPISODE COMPLETE! Reward: 19.4, Total episodes: 42
+EPISODE COMPLETE! Reward: 16.500000000000004, Total episodes: 43
+EPISODE COMPLETE! Reward: 18.900000000000006, Total episodes: 44
+EPISODE COMPLETE! Reward: 14.000000000000005, Total episodes: 45
+EPISODE COMPLETE! Reward: 14.200000000000003, Total episodes: 46
+EPISODE COMPLETE! Reward: 15.000000000000005, Total episodes: 47
+EPISODE COMPLETE! Reward: 14.90000000000001, Total episodes: 48
+EPISODE COMPLETE! Reward: 20.599999999999994, Total episodes: 49
+EPISODE COMPLETE! Reward: 19.099999999999994, Total episodes: 50
+EPISODE COMPLETE! Reward: 11.100000000000007, Total episodes: 51
+Steps: 10240/2048000 | Episodes: 51 | Avg Reward (100ep): 11.68 | Loss: 0.0690
+EPISODE COMPLETE! Reward: 26.999999999999986, Total episodes: 52
+EPISODE COMPLETE! Reward: 25.39999999999999, Total episodes: 53
+EPISODE COMPLETE! Reward: 24.29999999999999, Total episodes: 54
+EPISODE COMPLETE! Reward: 31.299999999999976, Total episodes: 55
+EPISODE COMPLETE! Reward: 25.29999999999999, Total episodes: 56
+EPISODE COMPLETE! Reward: 22.899999999999984, Total episodes: 57
+EPISODE COMPLETE! Reward: 26.199999999999992, Total episodes: 58
+EPISODE COMPLETE! Reward: 20.4, Total episodes: 59
+EPISODE COMPLETE! Reward: 22.199999999999996, Total episodes: 60
+EPISODE COMPLETE! Reward: 25.899999999999995, Total episodes: 61
+Steps: 12288/2048000 | Episodes: 61 | Avg Reward (100ep): 13.88 | Loss: 0.1183
+EPISODE COMPLETE! Reward: 22.59999999999999, Total episodes: 62
+EPISODE COMPLETE! Reward: 17.699999999999996, Total episodes: 63
+EPISODE COMPLETE! Reward: 23.79999999999999, Total episodes: 64
+EPISODE COMPLETE! Reward: 25.09999999999999, Total episodes: 65
+EPISODE COMPLETE! Reward: 27.899999999999977, Total episodes: 66
+EPISODE COMPLETE! Reward: 27.799999999999983, Total episodes: 67
+EPISODE COMPLETE! Reward: 20.4, Total episodes: 68
+EPISODE COMPLETE! Reward: 20.5, Total episodes: 69
+EPISODE COMPLETE! Reward: 24.099999999999987, Total episodes: 70
+EPISODE COMPLETE! Reward: 27.89999999999998, Total episodes: 71
+Steps: 14336/2048000 | Episodes: 71 | Avg Reward (100ep): 15.27 | Loss: 0.4871
+EPISODE COMPLETE! Reward: 22.29999999999999, Total episodes: 72
+EPISODE COMPLETE! Reward: 18.200000000000003, Total episodes: 73
+EPISODE COMPLETE! Reward: 26.999999999999986, Total episodes: 74
+EPISODE COMPLETE! Reward: 25.899999999999984, Total episodes: 75
+EPISODE COMPLETE! Reward: 23.19999999999999, Total episodes: 76
+EPISODE COMPLETE! Reward: 22.299999999999986, Total episodes: 77
+EPISODE COMPLETE! Reward: 31.799999999999976, Total episodes: 78
+EPISODE COMPLETE! Reward: 25.499999999999993, Total episodes: 79
+EPISODE COMPLETE! Reward: 21.0, Total episodes: 80
+EPISODE COMPLETE! Reward: 19.400000000000002, Total episodes: 81
+Steps: 16384/2048000 | Episodes: 81 | Avg Reward (100ep): 16.31 | Loss: 0.3294
+EPISODE COMPLETE! Reward: 24.29999999999999, Total episodes: 82
+EPISODE COMPLETE! Reward: 27.99999999999998, Total episodes: 83
+EPISODE COMPLETE! Reward: 29.09999999999998, Total episodes: 84
+EPISODE COMPLETE! Reward: 31.299999999999976, Total episodes: 85
+EPISODE COMPLETE! Reward: 30.69999999999998, Total episodes: 86
+EPISODE COMPLETE! Reward: 27.099999999999984, Total episodes: 87
+EPISODE COMPLETE! Reward: 24.499999999999993, Total episodes: 88
+EPISODE COMPLETE! Reward: 26.099999999999987, Total episodes: 89
+EPISODE COMPLETE! Reward: 21.599999999999994, Total episodes: 90
+EPISODE COMPLETE! Reward: 26.19999999999998, Total episodes: 91
+EPISODE COMPLETE! Reward: 27.59999999999998, Total episodes: 92
+Steps: 18432/2048000 | Episodes: 92 | Avg Reward (100ep): 17.58 | Loss: 0.1671
+EPISODE COMPLETE! Reward: 19.9, Total episodes: 93
+EPISODE COMPLETE! Reward: 32.699999999999974, Total episodes: 94
+EPISODE COMPLETE! Reward: 25.29999999999999, Total episodes: 95
+EPISODE COMPLETE! Reward: 28.299999999999983, Total episodes: 96
+EPISODE COMPLETE! Reward: 18.699999999999996, Total episodes: 97
+EPISODE COMPLETE! Reward: 24.599999999999994, Total episodes: 98
+EPISODE COMPLETE! Reward: 28.299999999999986, Total episodes: 99
+EPISODE COMPLETE! Reward: 24.799999999999983, Total episodes: 100
+EPISODE COMPLETE! Reward: 29.29999999999997, Total episodes: 101
+EPISODE COMPLETE! Reward: 28.09999999999998, Total episodes: 102
+Steps: 20480/2048000 | Episodes: 102 | Avg Reward (100ep): 18.70 | Loss: 0.3873
+New best avg reward: 18.70
+EPISODE COMPLETE! Reward: 19.6, Total episodes: 103
+EPISODE COMPLETE! Reward: 26.299999999999983, Total episodes: 104
+EPISODE COMPLETE! Reward: 29.69999999999998, Total episodes: 105
+EPISODE COMPLETE! Reward: 24.59999999999998, Total episodes: 106
+EPISODE COMPLETE! Reward: 25.899999999999984, Total episodes: 107
+EPISODE COMPLETE! Reward: 24.399999999999988, Total episodes: 108
+EPISODE COMPLETE! Reward: 26.39999999999998, Total episodes: 109
+EPISODE COMPLETE! Reward: 18.200000000000003, Total episodes: 110
+EPISODE COMPLETE! Reward: 24.099999999999987, Total episodes: 111
+EPISODE COMPLETE! Reward: 24.099999999999987, Total episodes: 112
+Steps: 22528/2048000 | Episodes: 112 | Avg Reward (100ep): 20.35 | Loss: 0.0716
+New best avg reward: 20.35
+EPISODE COMPLETE! Reward: 30.799999999999976, Total episodes: 113
+EPISODE COMPLETE! Reward: 25.099999999999987, Total episodes: 114
+EPISODE COMPLETE! Reward: 25.999999999999993, Total episodes: 115
+EPISODE COMPLETE! Reward: 29.299999999999983, Total episodes: 116
+EPISODE COMPLETE! Reward: 26.49999999999999, Total episodes: 117
+EPISODE COMPLETE! Reward: 24.299999999999983, Total episodes: 118
+EPISODE COMPLETE! Reward: 23.299999999999986, Total episodes: 119
+EPISODE COMPLETE! Reward: 29.099999999999984, Total episodes: 120
+EPISODE COMPLETE! Reward: 26.799999999999983, Total episodes: 121
+EPISODE COMPLETE! Reward: 29.399999999999977, Total episodes: 122
+Steps: 24576/2048000 | Episodes: 122 | Avg Reward (100ep): 22.14 | Loss: 0.2831
+New best avg reward: 22.14
+EPISODE COMPLETE! Reward: 25.699999999999985, Total episodes: 123
+EPISODE COMPLETE! Reward: 26.099999999999987, Total episodes: 124
+EPISODE COMPLETE! Reward: 26.299999999999994, Total episodes: 125
+EPISODE COMPLETE! Reward: 28.599999999999977, Total episodes: 126
+EPISODE COMPLETE! Reward: 15.900000000000007, Total episodes: 127
+EPISODE COMPLETE! Reward: 30.699999999999978, Total episodes: 128
+EPISODE COMPLETE! Reward: 25.099999999999987, Total episodes: 129
+EPISODE COMPLETE! Reward: 21.499999999999993, Total episodes: 130
+EPISODE COMPLETE! Reward: 20.999999999999993, Total episodes: 131
+Traceback (most recent call last):
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 234, in <module>
+    train(episodes=1000)
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 97, in train
+    logits, value = model(state_tensor)
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 42, in forward
+    out = self.net(x)
+          ^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/container.py", line 250, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1775, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1786, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/torch/nn/modules/activation.py", line 140, in forward
+    def forward(self, input: Tensor) -> Tensor:
+
+KeyboardInterrupt

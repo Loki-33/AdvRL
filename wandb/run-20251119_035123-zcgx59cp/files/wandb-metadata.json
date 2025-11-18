@@ -1,0 +1,13 @@
+{
+  "os": "Linux-6.16.3-76061603-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.13",
+  "startedAt": "2025-11-18T22:21:23.782232Z",
+  "program": "/home/viole/Desktop/Cyr/En/cleanTrain.py",
+  "codePath": "cleanTrain.py",
+  "codePathLocal": "cleanTrain.py",
+  "email": "archer0030@gmail.com",
+  "root": "/home/viole/Desktop/Cyr/En",
+  "host": "pop-os",
+  "executable": "/home/viole/Desktop/Cyr/En/.venv/bin/python3",
+  "writerId": "vm85hws5mjclix3zdvtzta3asgjbit7i"
+}

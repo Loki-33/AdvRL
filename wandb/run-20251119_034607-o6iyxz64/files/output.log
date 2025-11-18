@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 234, in <module>
+    train(episodes=1000)
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 104, in train
+    next_state, reward, done, truncated, _ = env.step(action.item())
+                                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 98, in step
+    obs = self.get_observation()
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 142, in get_observation
+    processed = self.preprocess_frame(rgb)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 132, in preprocess_frame
+    gray = cv2.cvtColor(frame, cv2.COLOR_RGB2GRAY)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

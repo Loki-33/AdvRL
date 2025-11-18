@@ -1,0 +1,25 @@
+{"time":"2025-11-19T03:05:56.677106154+05:30","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2025-11-19T03:05:58.607582343+05:30","level":"INFO","msg":"stream: created new stream","id":"gd9i5wnj"}
+{"time":"2025-11-19T03:05:58.607710153+05:30","level":"INFO","msg":"handler: started","stream_id":"gd9i5wnj"}
+{"time":"2025-11-19T03:05:58.60784753+05:30","level":"INFO","msg":"stream: started","id":"gd9i5wnj"}
+{"time":"2025-11-19T03:05:58.607877632+05:30","level":"INFO","msg":"writer: started","stream_id":"gd9i5wnj"}
+{"time":"2025-11-19T03:05:58.607887619+05:30","level":"INFO","msg":"sender: started","stream_id":"gd9i5wnj"}
+{"time":"2025-11-19T03:06:44.900973994+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":835}
+{"time":"2025-11-19T03:06:44.935250845+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":3}
+{"time":"2025-11-19T03:07:14.805575429+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":2406}
+{"time":"2025-11-19T03:07:14.904129608+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":9}
+{"time":"2025-11-19T03:07:29.915187408+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":3367}
+{"time":"2025-11-19T03:07:29.955440287+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":3}
+{"time":"2025-11-19T03:08:14.972927925+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":4441}
+{"time":"2025-11-19T03:08:15.015057715+05:30","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":3}
+{"time":"2025-11-19T03:09:01.699438024+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/archer0030-a/cleanEnv-training/gd9i5wnj/file_stream\": dial tcp [64:ff9b::23ba:e431]:443: connect: network is unreachable"}
+{"time":"2025-11-19T03:09:34.910182232+05:30","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":7733}
+{"time":"2025-11-19T03:09:44.322461653+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:10:16.794558694+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:10:50.820489687+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:11:28.839661842+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-11-19T03:12:16.195628819+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:13:18.825847331+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:14:48.843328863+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:16:18.844897927+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-19T03:16:45.81073307+05:30","level":"INFO","msg":"stream: closing","id":"gd9i5wnj"}

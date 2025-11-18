@@ -1,0 +1,34 @@
+EPISODE COMPLETE! Reward: 1.5, Total episodes: 1
+EPISODE COMPLETE! Reward: 7.800000000000004, Total episodes: 2
+EPISODE COMPLETE! Reward: 3.799999999999999, Total episodes: 3
+EPISODE COMPLETE! Reward: 7.8000000000000025, Total episodes: 4
+EPISODE COMPLETE! Reward: 6.100000000000001, Total episodes: 5
+EPISODE COMPLETE! Reward: 9.600000000000001, Total episodes: 6
+EPISODE COMPLETE! Reward: 7.4, Total episodes: 7
+EPISODE COMPLETE! Reward: 11.600000000000003, Total episodes: 8
+EPISODE COMPLETE! Reward: 11.700000000000005, Total episodes: 9
+EPISODE COMPLETE! Reward: 5.0, Total episodes: 10
+Action distribution: [0.16894531 0.15576172 0.17822266 0.17822266 0.15869141 0.16015625]
+Steps: 2048/2048000 | Episodes: 10 | Avg Reward (100ep): 7.23 | Loss: 0.0360
+EPISODE COMPLETE! Reward: 9.900000000000002, Total episodes: 11
+EPISODE COMPLETE! Reward: 4.399999999999999, Total episodes: 12
+EPISODE COMPLETE! Reward: 8.400000000000004, Total episodes: 13
+EPISODE COMPLETE! Reward: 8.600000000000001, Total episodes: 14
+EPISODE COMPLETE! Reward: 12.100000000000005, Total episodes: 15
+EPISODE COMPLETE! Reward: 6.300000000000001, Total episodes: 16
+EPISODE COMPLETE! Reward: 9.300000000000006, Total episodes: 17
+Traceback (most recent call last):
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 243, in <module>
+    train(episodes=1000)
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 104, in train
+    next_state, reward, done, truncated, _ = env.step(action.item())
+                                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 98, in step
+    obs = self.get_observation()
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 139, in get_observation
+    rgb = pygame.surfarray.array3d(self.screen)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/.venv/lib/python3.11/site-packages/pygame/surfarray.py", line 193, in array3d
+    surface_to_array(array, surface)
+KeyboardInterrupt

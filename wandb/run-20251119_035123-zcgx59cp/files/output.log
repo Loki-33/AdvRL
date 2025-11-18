@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 234, in <module>
+    train(episodes=1000)
+  File "/home/viole/Desktop/Cyr/En/cleanTrain.py", line 104, in train
+    next_state, reward, done, truncated, _ = env.step(action.item())
+                                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/viole/Desktop/Cyr/En/env1.py", line 99, in step
+    done = self.current_step >= self.max_steps
+                                ^^^^^^^^^^^^^^
+AttributeError: 'CleanEnv' object has no attribute 'max_steps'

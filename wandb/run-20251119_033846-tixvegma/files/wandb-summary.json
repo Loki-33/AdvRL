@@ -1,0 +1,1 @@
+{"_timestamp":1.763504084671765e+09,"Metrics/Global Step":14336,"_runtime":378,"Loss/Total Loss":0.05881661921739578,"Loss/Value Loss":0.28078216314315796,"Loss/Entropy Loss":-0.06986065953969955,"Metrics/Entropy":1.3972132205963135,"Loss/Policy Loss":-0.011713804677128792,"_wandb":{"runtime":378},"_step":2239}
