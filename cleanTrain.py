@@ -238,6 +238,6 @@ def wandb_init(key):
         }
     )
 if __name__ == '__main__':
-    key='8272ab2d9735b11ac6be1cb7e14dda7118145953'
+    key='your key'
     wandb_init(key)
     train(episodes=1000)
