@@ -15,9 +15,9 @@ Total Reward: 35.99999999999997 <br>
 Steps: 200 <br>
 Messes Left: 10 <br>
 Action Distribution: <br>
-    UP: 0 (0.0%)<br>
-    DOWN: 0 (0.0%)<br>
-    LEFT: 0 (0.0%)<br>
-    RIGHT: 0 (0.0%)<br>
-    CLEAN: 120 (60.0%)<br>
-    MAKE_MESS: 80 (40.0%)<br>
+- UP: 0 (0.0%)<br>
+- DOWN: 0 (0.0%)<br>
+- LEFT: 0 (0.0%)<br>
+- RIGHT: 0 (0.0%)<br>
+- CLEAN: 120 (60.0%)<br>
+- MAKE_MESS: 80 (40.0%)<br>
