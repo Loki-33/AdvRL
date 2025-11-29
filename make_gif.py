@@ -13,7 +13,6 @@ model = AC(obs_space, n_actions)
 model.load_state_dict(torch.load('best_model.pth'))
 model.eval()
 
-
 frames = []
 state, _ = env.reset()
 done = False

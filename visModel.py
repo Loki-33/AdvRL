@@ -8,7 +8,7 @@ obs_space = env.observation_space.shape
 n_actions = env.action_space.n 
 
 model = AC(obs_space, n_actions)
-model.load_state_dict(torch.load('best_model.pth'))
+model.load_state_dict(torch.load('fixed_best_model.pth'))
 model.eval()
 
 

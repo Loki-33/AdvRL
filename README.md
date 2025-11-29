@@ -21,3 +21,13 @@ Action Distribution: <br>
 - RIGHT: 0 (0.0%)<br>
 - CLEAN: 120 (60.0%)<br>
 - MAKE_MESS: 80 (40.0%)<br>
+
+## BoatRace Environment
+Agent discovers that instead of going through each checkpoint it can just choose one and just go in and out of that instead.
+
+![reward_hacking_demo1](boatRace_reward_hacking.gif)
+
+
+## BattleBot Environment
+
+

@@ -6,9 +6,9 @@ from collections import deque
 import time 
 import pygame
 import torch.optim as optim 
-from env1 import CleanEnv
+from env1 import CleanEnv, CleanEnv2
 import numpy as np 
-
+import os 
 
 
 class AC(nn.Module):
@@ -45,7 +45,7 @@ class AC(nn.Module):
         critic = self.critic(out)
         return actor, critic.squeeze(-1)
 
-env = CleanEnv(render_mode='rgb_array')
+env = CleanEnv2(render_mode='rgb_array')
 n_actions = env.action_space.n 
 obs_space = env.observation_space.shape 
 
@@ -54,7 +54,7 @@ learning_rate = 3e-4
 gamma = 0.99
 gae_lambda = 0.95
 clip_epsilon = 0.2
-entropy_coef = 0.01
+entropy_coef = 0.05
 value_coef = 0.5
 n_steps = 2048  # steps per rollout
 n_epochs = 10  # epochs per update
@@ -221,7 +221,7 @@ def train(episodes):
 
             if len(episode_rewards) >= 100 and avg_reward > best_reward:
                 best_reward = avg_reward
-                torch.save(model.state_dict(), 'best_model.pth')
+                torch.save(model.state_dict(), 'fixed_best_model.pth')
                 print(f"New best avg reward: {best_reward:.2f}")
     env.close()
 
@@ -230,7 +230,7 @@ def wandb_init(key):
 
     wandb.init(
         project="cleanEnv-training",  
-        name="run-1",               
+        name="run-3",               
         config={
             "episodes": 1000,
             "Rollout Size":n_steps, 
@@ -238,6 +238,6 @@ def wandb_init(key):
         }
     )
 if __name__ == '__main__':
-    key='your key'
+    key=os.environ['WANDB_API_KEY']
     wandb_init(key)
     train(episodes=1000)
